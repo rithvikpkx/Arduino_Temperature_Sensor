@@ -66,7 +66,7 @@ while True:
     #14.4
     #Round value of temp
     #Set rounded value to temp
-    temp = round(temp) ← New
+    temp = round(temp) # ← New
 
     #14.5
     #Send converted string value of temp with radio
