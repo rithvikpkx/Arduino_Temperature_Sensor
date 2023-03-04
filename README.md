@@ -1,4 +1,4 @@
-# Microbit_Lesson_14
+# Arduino_Temperature_Sensor
 Lesson 14 of my Intro to Python course with Microbit
 
 Program Overview: This program is a temperature sensor that behaves like a thermometer. It is made using python and uses an externally connected thermistor to read temperature data in the surrounding environment. It then parses this data and converts it into Fahrenheit and scrolls it across the screen. It also sends the temperature through the inbuilt radio.
